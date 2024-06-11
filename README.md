@@ -37,7 +37,6 @@ Drama Scraper is a Python script that scrapes drama information from MyDramaList
     extract.py
     /data
     drama_list.csv
-    ```
 
 - main.py: Entry point for the script. Orchestrates the scraping process.
 - utils.py: Contains utility functions for fetching pages and writing data to CSV.
