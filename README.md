@@ -31,11 +31,12 @@ K-Drama Scraper is a Python script that scrapes Korean Drama 2020 - 2024 informa
 ## File Structure
 
     /K-Drama-Scrapper
-       main.py
-       utils.py
-       extract.py
-    /data
-       drama_list.csv
+       /app
+          main.py
+          utils.py
+          extract.py
+       /data
+          drama_list.csv
 
 - main.py: Entry point for the script. Orchestrates the scraping process.
 - utils.py: Contains utility functions for fetching pages and writing data to CSV.
