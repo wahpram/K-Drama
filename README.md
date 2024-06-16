@@ -1,6 +1,6 @@
-# Drama Scraper
+# K-Drama Scraper
 
-Drama Scraper is a Python script that scrapes drama information from MyDramaList.com and saves it to a CSV file.
+K-Drama Scraper is a Python script that scrapes Korean Drama 2020 - 2024 information from MyDramaList.com and saves it to a CSV file.
 
 ## Features
 
